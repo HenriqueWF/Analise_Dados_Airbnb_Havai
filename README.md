@@ -16,6 +16,8 @@ Pode acessar esse [link no Google Colab](https://colab.research.google.com/drive
 Nesta análise exploratória, os dados foram obtidos no portal [Inside Airbnb](http://insideairbnb.com/get-the-data/). Foi utilizada a versão resumida da base de dados, a qual está descrita abaixo:
 
  - ***listings.csv** - Summary information and metrics for listings in Hawaii (good for visualisations)*.
+![image](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/befac1cd-b9c0-4190-9b20-d7805b45ca0b)
+
 
 ## Tecnologias Utilizadas
 <p align="left">  
