@@ -36,7 +36,8 @@ Constatou-se que Ewa, Koloa-Poipu, Lahaina South Kohala e Waimea-Kekaha são as 
 ### Distribuição geoespacial das propriedades do Havaí no Airbnb
 Abaixo foi criado um um gráfico utilizando a biblioteca Pydeck, o qual mostra a distribuição geográfica das propriedades no Havaí com base nas coordenadas das variáveis latitude e longitude. Assim, é possível identificar áreas com maior concentração de propriedades no arquipélago do Havaí. 
 
-![Hawaii](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/5be70147-1cf0-4427-a203-2be840cd9ba0)
+
+![Hawaii2](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec)
 
 
 ## Contato
