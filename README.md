@@ -39,6 +39,8 @@ Abaixo foi criado um um gráfico utilizando a biblioteca Pydeck, o qual mostra a
 
 ![Hawaii2](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec)
 
+## Meus Artigos Relacionados ao Estudo
+ - [Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
