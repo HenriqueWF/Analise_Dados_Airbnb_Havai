@@ -10,7 +10,11 @@
 ### *Aloha!*
 Essa é uma análise exploratória dos dados do *dataset* do Airbnb no Havaí. O objetivo do estudo foi obter insights sobre informações de preços e distribuição das acomodações desse arquipélago. 
 
-Pode acessar esse [link no Google Colab](https://colab.research.google.com/drive/1LXzC6AslNYelDWVQhcEhiuBIDvIhxD7A?usp=sharing) para acessar o projeto completo. Se preferir, pode acessar o [artigo no Medium](https://medium.com/@henriquewfranco/an%C3%A1lise-de-dados-do-airbnb-hava%C3%AD-8ae04e2b3018) com a versão resumida do estudo. 
+**Pode acessar o link abaixo  para acessar o projeto completo.** 
+ - [**Projeto no Google Colab**](https://colab.research.google.com/drive/1LXzC6AslNYelDWVQhcEhiuBIDvIhxD7A?usp=sharing)
+
+Se preferir, pode acessar o artigo abaixo com a versão resumida do estudo.
+ - [**Artigo no Medium**](https://medium.com/@henriquewfranco/an%C3%A1lise-de-dados-do-airbnb-hava%C3%AD-8ae04e2b3018)
 
 ## Fonte dos Dados
 Nesta análise exploratória, os dados foram obtidos no portal [Inside Airbnb](http://insideairbnb.com/get-the-data/). Foi utilizada a versão resumida da base de dados, a qual está descrita abaixo:
